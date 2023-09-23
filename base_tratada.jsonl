@@ -1,0 +1,133 @@
+{"text": "introdu\u00e7\u00e3o 1.1. objetivo prop\u00f3sito fundamental deste documento articular clareza min\u00facia requisitos t\u00e9cnicos operacionais sistema monitoramento hidrel\u00e9tricas smh", "entities": [], "cats": []}
+{"text": "projetado ferramenta crucial visa atender complexa rede profissionais envolvidos desde engenheiros analistas respons\u00e1veis tomada decis\u00f5es organiza\u00e7\u00f5es hidrel\u00e9tricas", "entities": [], "cats": []}
+{"text": "1.2. escopo smh objetivo alicerce digital supervis\u00e3o controle atividades usinas hidrel\u00e9tricas", "entities": [], "cats": []}
+{"text": "atrav\u00e9s funcionalidades poss\u00edvel monitorar condi\u00e7\u00f5es desempenho equipamentos analisar qualidade \u00e1gua detectar desgastes prematuros turbinas barragens prever poss\u00edveis falhas inunda\u00e7\u00f5es", "entities": [], "cats": []}
+{"text": "1.3. defini\u00e7\u00f5es acr\u00f4nimos abrevia\u00e7\u00f5es smh sistema monitoramento hidrel\u00e9tricas ana ag\u00eancia nacional \u00e1guas ons operador nacional sistema el\u00e9trico 1.4. refer\u00eancias 1 `` padr\u00f5es desempenho usinas hidrel\u00e9tricas '' ana 2 `` sistema supervis\u00e3o controle dados '' ons 3 `` diretrizes monitoramento infraestrutura h\u00eddrica '' ibama 1.5. vis\u00e3o geral documento visa oferecer vis\u00e3o completa smh delineando desde requisitos t\u00e9cnicos espec\u00edficos abordando cada faceta sistema detalhes", "entities": [], "cats": []}
+{"text": "descri\u00e7\u00e3o geral 2.1. requisitos funcionais smh contar\u00e1 s\u00e9rie m\u00f3dulos integrados m\u00f3dulo sensores integrar\u00e1 informa\u00e7\u00f5es sensores espalhados usina abrangendo desde temperatura n\u00edveis vibra\u00e7\u00e3o", "entities": [], "cats": []}
+{"text": "m\u00f3dulo alerta capaz identificar situa\u00e7\u00f5es anormais disparar alertas respons\u00e1veis evitando cat\u00e1strofes", "entities": [], "cats": []}
+{"text": "m\u00f3dulo anal\u00edtico conduzir\u00e1 an\u00e1lises profundas apresentando relat\u00f3rios ricos sobre estado geral usina", "entities": [], "cats": []}
+{"text": "2.2. requisitos interface interface smh intuitiva dashboards personaliz\u00e1veis", "entities": [], "cats": []}
+{"text": "projetada acess\u00edvel diversos dispositivos desde grandes monitores tablets smartphones", "entities": [], "cats": []}
+{"text": "integra\u00e7\u00e3o outros sistemas scada facilitada meio apis dedicadas", "entities": [], "cats": []}
+{"text": "2.3. atributos qualidade confiabilidade garantir opera\u00e7\u00e3o cont\u00ednua 24/7 identificando corrigindo falhas forma aut\u00f4noma", "entities": [], "cats": []}
+{"text": "efici\u00eancia respostas r\u00e1pidas sob condi\u00e7\u00f5es alta demanda", "entities": [], "cats": []}
+{"text": "adaptabilidade flexibilidade acomodar novos requisitos mudan\u00e7as regulamenta\u00e7\u00f5es", "entities": [], "cats": []}
+{"text": "2.4. caracter\u00edsticas usu\u00e1rios smh usado gama variada profissionais", "entities": [], "cats": []}
+{"text": "portanto contar\u00e1 diferentes n\u00edveis acesso garantindo cada perfil usu\u00e1rio acesso apenas funcionalidades pertinentes fun\u00e7\u00e3o", "entities": [], "cats": []}
+{"text": "2.5. restri\u00e7\u00f5es smh desenvolvido seguindo diretrizes rigorosas impostas \u00f3rg\u00e3os reguladores precisar\u00e1 constante conformidade normas", "entities": [], "cats": []}
+{"text": "2.6. suposi\u00e7\u00f5es depend\u00eancias sup\u00f5e-se infraestrutura hidrel\u00e9tricas energia conectividade constante confi\u00e1vel", "entities": [], "cats": []}
+{"text": "qualquer interrup\u00e7\u00e3o nesses servi\u00e7os pode afetar efic\u00e1cia smh", "entities": [], "cats": []}
+{"text": "requisitos espec\u00edficos 3.1. requisitos desempenho alta performance crucial", "entities": [], "cats": []}
+{"text": "smh desenvolvido multi-threaded garantindo grandes volumes dados processados simultaneamente degradar performance", "entities": [], "cats": []}
+{"text": "3.2. requisitos seguran\u00e7a protocolo rigoroso autentica\u00e7\u00e3o implementado", "entities": [], "cats": []}
+{"text": "todos dados criptografados regularmente realizadas auditorias seguran\u00e7a", "entities": [], "cats": []}
+{"text": "anexo 4.1. recursos t\u00e9cnicas utilizados realizadas diversas sess\u00f5es brainstorming consultas especialistas internacionais monitoramento hidrel\u00e9trico revis\u00f5es liter\u00e1rias extensas", "entities": [], "cats": []}
+{"text": "4.2. lista perguntas al\u00e9m quest\u00f5es mencionadas feitas indaga\u00e7\u00f5es integra\u00e7\u00e3o novos sensores pode facilitada", "entities": [], "cats": []}
+{"text": "tempo m\u00e9dio resposta casos emerg\u00eancia atualmente", "entities": [], "cats": []}
+{"text": "alguma tecnologia emergente dever\u00edamos considerar", "entities": [], "cats": []}
+{"text": "4.3. contatos eng", "entities": [], "cats": []}
+{"text": "rafael soares supervisor t\u00e9cnico usina hidrel\u00e9trica xingu 555 123-4567 25 agosto 2023", "entities": [], "cats": []}
+{"text": "dra carolina mendes diretora opera\u00e7\u00f5es usina hidrel\u00e9trica paranapanema 555 789-0123 28 agosto 2023", "entities": [], "cats": []}
+{"text": "introdu\u00e7\u00e3o 1.1. objetivo documento visa definir requisitos funcionais t\u00e9cnicos neg\u00f3cio desenvolvimento sistema controle tr\u00e1fego a\u00e9reo scta", "entities": [], "cats": []}
+{"text": "destina-se gestores projeto desenvolvedores testadores stakeholders utilizadores finais sistema", "entities": [], "cats": []}
+{"text": "1.2. escopo scta sistema software destinado facilitar gest\u00e3o eficiente segura tr\u00e1fego a\u00e9reo", "entities": [], "cats": []}
+{"text": "abordar\u00e1 detec\u00e7\u00e3o aeronaves monitoriza\u00e7\u00e3o tempo real fornecimento dados relevantes controladores tr\u00e1fego a\u00e9reo coordena\u00e7\u00e3o rotas voo", "entities": [], "cats": []}
+{"text": "1.3. defini\u00e7\u00f5es acr\u00f4nimos abrevia\u00e7\u00f5es scta sistema controle tr\u00e1fego a\u00e9reo", "entities": [], "cats": []}
+{"text": "atc controlador tr\u00e1fego a\u00e9reo", "entities": [], "cats": []}
+{"text": "faa administra\u00e7\u00e3o federal avia\u00e7\u00e3o", "entities": [], "cats": []}
+{"text": "icao organiza\u00e7\u00e3o avia\u00e7\u00e3o civil internacional", "entities": [], "cats": []}
+{"text": "1.4. refer\u00eancias 1 `` ieee recommended practice software requirements specifications ''", "entities": [], "cats": []}
+{"text": "2 `` iso/iec/ieee 29148:2011 ''", "entities": [], "cats": []}
+{"text": "3 `` faa order jo 7110.65 ''", "entities": [], "cats": []}
+{"text": "1.5. vis\u00e3o geral documento especifica\u00e7\u00e3o requisitos composto quatro se\u00e7\u00f5es principais introdu\u00e7\u00e3o descri\u00e7\u00e3o geral requisitos espec\u00edficos anexo", "entities": [], "cats": []}
+{"text": "descri\u00e7\u00e3o geral 2.1. requisitos funcionais scta deve capaz monitorar gerenciar efetivamente tr\u00e1fego a\u00e9reo fornecer rotas voo otimizadas alertar controladores tr\u00e1fego a\u00e9reo sobre poss\u00edveis riscos", "entities": [], "cats": []}
+{"text": "2.2. requisitos interface scta deve compat\u00edvel sistemas hardware software existentes incluindo sistemas radar comunica\u00e7\u00e3o aeron\u00e1utica", "entities": [], "cats": []}
+{"text": "2.3. atributos qualidade scta deve ter alta confiabilidade desempenho responder tempo real situa\u00e7\u00f5es emerg\u00eancia", "entities": [], "cats": []}
+{"text": "2.4. caracter\u00edsticas usu\u00e1rios usu\u00e1rios principais scta controladores tr\u00e1fego a\u00e9reo treinados certificados", "entities": [], "cats": []}
+{"text": "2.5. restri\u00e7\u00f5es scta deve cumprir todas leis regulamentos pertinentes incluindo definidos faa icao", "entities": [], "cats": []}
+{"text": "2.6. suposi\u00e7\u00f5es depend\u00eancias scta operado ambiente controle tr\u00e1fego a\u00e9reo assumimos todas aeronaves equipadas operando espa\u00e7o a\u00e9reo controlado sistema", "entities": [], "cats": []}
+{"text": "requisitos espec\u00edficos 3.1. requisitos desempenho scta deve capaz processar dados voo centenas aeronaves simultaneamente deve capaz responder situa\u00e7\u00f5es emerg\u00eancia menos segundo", "entities": [], "cats": []}
+{"text": "3.2. requisitos seguran\u00e7a scta deve garantir confidencialidade integridade disponibilidade dados processa", "entities": [], "cats": []}
+{"text": "al\u00e9m disso scta deve capaz recuperar rapidamente falhas garantir continuidade opera\u00e7\u00f5es", "entities": [], "cats": []}
+{"text": "anexo anexo inclui plano manuten\u00e7\u00e3o detalhado scta bem diagramas fluxo dados interface usu\u00e1rio", "entities": [], "cats": []}
+{"text": "fornecida lista todas partes interessadas consultadas durante cria\u00e7\u00e3o deste documento requisitos", "entities": [], "cats": []}
+{"text": "4.1. recursos t\u00e9cnicas utilizados v\u00e1rias t\u00e9cnicas recursos usados extra\u00e7\u00e3o requisitos", "entities": [], "cats": []}
+{"text": "inclui entrevistas controladores tr\u00e1fego a\u00e9reo workshops stakeholders revis\u00e3o documentos t\u00e9cnicos uso ferramentas modelagem software", "entities": [], "cats": []}
+{"text": "4.2. lista perguntas perguntas feitas durante entrevistas workshops inclu\u00edam quest\u00f5es quais principais desafios enfrenta atualmente gest\u00e3o tr\u00e1fego a\u00e9reo", "entities": [], "cats": []}
+{"text": "tipo funcionalidades gostaria ver sistema ideal controle tr\u00e1fego a\u00e9reo", "entities": [], "cats": []}
+{"text": "quais principais \u00e1reas necessitam melhorias atual sistema controle tr\u00e1fego a\u00e9reo", "entities": [], "cats": []}
+{"text": "4.3. contatos principais contatos durante processo elicita\u00e7\u00e3o requisitos inclu\u00edram john doe controlador tr\u00e1fego a\u00e9reo senior aeroporto internacional jfk 555 123-4567 22 janeiro 2023 jane smith gerente opera\u00e7\u00f5es administra\u00e7\u00e3o federal avia\u00e7\u00e3o 555 765-4321 25 janeiro 2023", "entities": [], "cats": []}
+{"text": "introdu\u00e7\u00e3o 1.1. objetivo documento define requisitos desenvolvimento sistema monitoramento pacientes uti smpu software complexo auxilia profissionais sa\u00fade fornecendo informa\u00e7\u00f5es tempo real sobre estado cl\u00ednico pacientes internados unidades terapia intensiva", "entities": [], "cats": []}
+{"text": "sistema usado m\u00e9dicos enfermeiros t\u00e9cnicos sa\u00fade outros profissionais sa\u00fade monitorar sinais vitais estado paciente registrar mudan\u00e7as condi\u00e7\u00e3o pacientes", "entities": [], "cats": []}
+{"text": "1.2. escopo smpu capaz coletar processar exibir s\u00e9rie m\u00e9tricas vitais incluindo frequ\u00eancia card\u00edaca press\u00e3o arterial oximetria pulso temperatura corporal frequ\u00eancia respirat\u00f3ria n\u00edveis consci\u00eancia", "entities": [], "cats": []}
+{"text": "al\u00e9m disso sistema deve integrar-se principais sistemas informa\u00e7\u00e3o hospitalar sih permitir atualiza\u00e7\u00e3o cont\u00ednua registro eletr\u00f4nico sa\u00fade paciente", "entities": [], "cats": []}
+{"text": "smpu objetivo substituir avalia\u00e7\u00e3o cl\u00ednica profissionais sa\u00fade fornecer ferramenta ajudar monitoriza\u00e7\u00e3o pacientes tempo real", "entities": [], "cats": []}
+{"text": "1.3. defini\u00e7\u00f5es acr\u00f4nimos abrevia\u00e7\u00f5es uti unidade terapia intensiva sih sistema informa\u00e7\u00e3o hospitalar ehr electronic health record registro eletr\u00f4nico sa\u00fade bpm batimentos minuto spo2 satura\u00e7\u00e3o oxig\u00eanio gcs escala coma glasgow api application programming interface hl7 health level seven conjunto normas internacionais transfer\u00eancia dados cl\u00ednicos administrativos aplicativos software usados servi\u00e7os sa\u00fade", "entities": [], "cats": []}
+{"text": "1.4. refer\u00eancias iso 13485:2016 sistemas gest\u00e3o qualidade dispositivos m\u00e9dicos iso 14971:2019 gest\u00e3o riscos dispositivos m\u00e9dicos gdpr regulamento geral prote\u00e7\u00e3o dados lgpd lei geral prote\u00e7\u00e3o dados pessoais 1.5. vis\u00e3o geral especifica\u00e7\u00e3o requisitos inclui descri\u00e7\u00e3o requisitos funcionais interface desempenho sistema bem restri\u00e7\u00f5es depend\u00eancias sistema", "entities": [], "cats": []}
+{"text": "sistema objetivo central oferecer profissionais sa\u00fade ferramenta robusta confi\u00e1vel monitoramento cont\u00ednuo pacientes estado cr\u00edtico", "entities": [], "cats": []}
+{"text": "descri\u00e7\u00e3o geral 2.1. requisitos funcionais coletar dados dispositivos m\u00e9dicos tempo real sistema deve capaz coletar dados v\u00e1rios tipos dispositivos m\u00e9dicos monitores sinais vitais ventiladores bombas infus\u00e3o", "entities": [], "cats": []}
+{"text": "dados incluem limitam frequ\u00eancia card\u00edaca press\u00e3o arterial satura\u00e7\u00e3o oxig\u00eanio sangue frequ\u00eancia respirat\u00f3ria temperatura corporal n\u00edveis consci\u00eancia medidos escala coma glasgow", "entities": [], "cats": []}
+{"text": "processar analisar dados coletados gerar informa\u00e7\u00f5es acion\u00e1veis sistema deve processar analisar dados coletados identificar tend\u00eancias padr\u00f5es", "entities": [], "cats": []}
+{"text": "sistema deve gerar informa\u00e7\u00f5es acion\u00e1veis base an\u00e1lise dados", "entities": [], "cats": []}
+{"text": "exemplo sistema pode identificar frequ\u00eancia card\u00edaca paciente intervalo normal gerar alerta profissionais sa\u00fade", "entities": [], "cats": []}
+{"text": "exibir dados processados interface amig\u00e1vel sistema deve exibir dados processados maneira f\u00e1cil entender", "entities": [], "cats": []}
+{"text": "pode incluir gr\u00e1ficos tabelas outras representa\u00e7\u00f5es visuais dados", "entities": [], "cats": []}
+{"text": "gerar alertas baseados par\u00e2metros definidos profissionais sa\u00fade sistema deve permitir profissionais sa\u00fade definam par\u00e2metros cada paciente", "entities": [], "cats": []}
+{"text": "dados coletados ca\u00edrem desses par\u00e2metros sistema deve gerar alerta", "entities": [], "cats": []}
+{"text": "registrar armazenar todos eventos paciente incluindo altera\u00e7\u00f5es par\u00e2metros vitais alertas gerados sistema deve registrar todos eventos relacionados paciente incluindo altera\u00e7\u00f5es par\u00e2metros vitais alertas gerados", "entities": [], "cats": []}
+{"text": "registros devem armazenados forma segura devem facilmente acess\u00edveis revis\u00e3o an\u00e1lise", "entities": [], "cats": []}
+{"text": "fornecer interface profissionais sa\u00fade revisarem modificarem par\u00e2metros alerta sistema deve fornecer interface f\u00e1cil usar permite profissionais sa\u00fade revisar modificar par\u00e2metros alerta cada paciente", "entities": [], "cats": []}
+{"text": "sincronizar tempo real registro eletr\u00f4nico sa\u00fade ehr paciente sistema deve capaz sincronizar tempo real ehr paciente", "entities": [], "cats": []}
+{"text": "permite informa\u00e7\u00f5es recentes sobre estado paciente compartilhadas todos profissionais sa\u00fade envolvidos cuidado paciente", "entities": [], "cats": []}
+{"text": "2.2. requisitos interface interface usu\u00e1rio intuitiva f\u00e1cil usar visualiza\u00e7\u00e3o dados tempo real interface usu\u00e1rio sistema deve intuitiva f\u00e1cil usar", "entities": [], "cats": []}
+{"text": "deve permitir profissionais sa\u00fade visualizem dados paciente tempo real forma clara compreens\u00edvel", "entities": [], "cats": []}
+{"text": "notifica\u00e7\u00f5es claras distingu\u00edveis alertas alerta gerado sistema deve fornecer notifica\u00e7\u00e3o clara distingu\u00edvel profissional sa\u00fade", "entities": [], "cats": []}
+{"text": "notifica\u00e7\u00e3o deve indicar natureza alerta fornecer informa\u00e7\u00f5es relevantes sobre estado paciente", "entities": [], "cats": []}
+{"text": "capacidade personalizar exibi\u00e7\u00e3o dados cada usu\u00e1rio cada usu\u00e1rio sistema deve capaz personalizar exibi\u00e7\u00e3o dados acordo prefer\u00eancias necessidades", "entities": [], "cats": []}
+{"text": "pode incluir escolha quais m\u00e9tricas exibidas apresentadas", "entities": [], "cats": []}
+{"text": "interfaces comunica\u00e7\u00e3o padronizadas integra\u00e7\u00e3o equipamentos m\u00e9dicos v\u00e1rias marcas sistema deve usar interfaces comunica\u00e7\u00e3o padronizadas hl7 permitir integra\u00e7\u00e3o ampla gama equipamentos m\u00e9dicos v\u00e1rias marcas", "entities": [], "cats": []}
+{"text": "api troca segura dados sih sistema deve fornecer api permite troca segura dados sih", "entities": [], "cats": []}
+{"text": "api deve projetada acordo padr\u00f5es seguran\u00e7a privacidade dados garantir dados paciente protegidos", "entities": [], "cats": []}
+{"text": "2.3. atributos qualidade alta disponibilidade confiabilidade garantir monitoramento cont\u00ednuo ininterrupto sistema deve altamente dispon\u00edvel confi\u00e1vel", "entities": [], "cats": []}
+{"text": "deve projetado garantir monitoramento cont\u00ednuo ininterrupto pacientes uti", "entities": [], "cats": []}
+{"text": "sistema deve capaz operar 24 horas dia 7 dias semana deve capaz recuperar rapidamente falhas", "entities": [], "cats": []}
+{"text": "desempenho robusto responsivo lidar grande volume dados tempo real sistema deve ter desempenho robusto responsivo", "entities": [], "cats": []}
+{"text": "deve capaz lidar grande volume dados tempo real fornecer atualiza\u00e7\u00f5es tempo real profissionais sa\u00fade", "entities": [], "cats": []}
+{"text": "seguran\u00e7a dados rigorosa garantir privacidade paciente sistema deve implementar medidas seguran\u00e7a dados rigorosas garantir privacidade paciente", "entities": [], "cats": []}
+{"text": "inclui criptografia dados repouso tr\u00e2nsito implementa\u00e7\u00e3o controles acesso garantir apenas pessoas autorizadas possam acessar dados paciente", "entities": [], "cats": []}
+{"text": "portabilidade suportar variedade dispositivos sistemas operacionais sistema deve port\u00e1til capaz funcionar variedade dispositivos sistemas operacionais", "entities": [], "cats": []}
+{"text": "permite sistema usado variedade ambientes sa\u00fade", "entities": [], "cats": []}
+{"text": "2.4. caracter\u00edsticas usu\u00e1rios usu\u00e1rios finais profissionais sa\u00fade habilidades variadas tecnologia sistema usado variedade profissionais sa\u00fade incluindo m\u00e9dicos enfermeiros t\u00e9cnicos sa\u00fade outros", "entities": [], "cats": []}
+{"text": "usu\u00e1rios variedade habilidades tecnologia sistema deve f\u00e1cil usar todos", "entities": [], "cats": []}
+{"text": "administradores sistema conhecimento t\u00e9cnico avan\u00e7ado administradores sistema respons\u00e1veis manuten\u00e7\u00e3o opera\u00e7\u00e3o sistema", "entities": [], "cats": []}
+{"text": "conhecimento t\u00e9cnico avan\u00e7ado estar\u00e3o familiarizados sistemas ti ambientes sa\u00fade", "entities": [], "cats": []}
+{"text": "2.5. restri\u00e7\u00f5es conformidade normas regulamentos dispositivos m\u00e9dicos privacidade dados sistema deve conformidade todas normas regulamentos relevantes dispositivos m\u00e9dicos privacidade dados", "entities": [], "cats": []}
+{"text": "inclui limita iso 13485 sistemas gest\u00e3o qualidade dispositivos m\u00e9dicos iso 14971 gest\u00e3o riscos dispositivos m\u00e9dicos gdpr prote\u00e7\u00e3o dados pessoais uni\u00e3o europeia lgpd prote\u00e7\u00e3o dados pessoais brasil", "entities": [], "cats": []}
+{"text": "compatibilidade variedade dispositivos m\u00e9dicos existentes mercado sistema deve compat\u00edvel ampla variedade dispositivos m\u00e9dicos existentes mercado", "entities": [], "cats": []}
+{"text": "inclui monitores sinais vitais ventiladores bombas infus\u00e3o outros", "entities": [], "cats": []}
+{"text": "disponibilidade rede comunica\u00e7\u00e3o confi\u00e1vel transmiss\u00e3o dados sistema requer rede comunica\u00e7\u00e3o confi\u00e1vel transmiss\u00e3o dados", "entities": [], "cats": []}
+{"text": "rede deve capaz lidar volume dados transmitidos sistema deve confi\u00e1vel garantir disponibilidade cont\u00ednua sistema", "entities": [], "cats": []}
+{"text": "2.6. suposi\u00e7\u00f5es depend\u00eancias sistema operacional smpu instalado deve est\u00e1vel seguro sistema instalado sistema operacional deve est\u00e1vel seguro", "entities": [], "cats": []}
+{"text": "seguran\u00e7a sistema operacional essencial seguran\u00e7a geral sistema", "entities": [], "cats": []}
+{"text": "infraestrutura ti hospital deve capaz suportar volume dados transmitidos smpu sistema instalado hospitais infraestrutura ti deve capaz suportar volume dados transmitidos smpu", "entities": [], "cats": []}
+{"text": "pessoal ti hospital deve dispon\u00edvel ajudar instala\u00e7\u00e3o manuten\u00e7\u00e3o smpu sistema requer apoio pessoal ti hospital instala\u00e7\u00e3o manuten\u00e7\u00e3o", "entities": [], "cats": []}
+{"text": "pessoal deve dispon\u00edvel ter conhecimento t\u00e9cnico necess\u00e1rio apoiar sistema", "entities": [], "cats": []}
+{"text": "requisitos espec\u00edficos 3.1. requisitos desempenho tempo resposta sistema deve fornecer atualiza\u00e7\u00f5es tempo real sobre estado pacientes uti", "entities": [], "cats": []}
+{"text": "tempo resposta exibi\u00e7\u00e3o dados ap\u00f3s coleta deve exceder 5 segundos", "entities": [], "cats": []}
+{"text": "confiabilidade sistema deve ter taxa disponibilidade menos 99,9", "entities": [], "cats": []}
+{"text": "significa tempo inatividade sistema deve exceder 8,76 horas ano", "entities": [], "cats": []}
+{"text": "3.2. requisitos seguran\u00e7a controles acesso sistema deve implementar controles acesso rigorosos garantir apenas pessoas autorizadas possam acessar dados paciente", "entities": [], "cats": []}
+{"text": "deve incluir autentica\u00e7\u00e3o dois fatores controle acesso baseado fun\u00e7\u00f5es", "entities": [], "cats": []}
+{"text": "criptografia todos dados repouso tr\u00e2nsito devem criptografados usando algoritmos criptografia padr\u00e3o industrial", "entities": [], "cats": []}
+{"text": "auditoria monitoramento sistema deve ter capacidade auditoria monitoramento detectar responder poss\u00edveis viola\u00e7\u00f5es seguran\u00e7a", "entities": [], "cats": []}
+{"text": "deve incluir logs auditoria detalhados alertas tempo real atividades suspeitas", "entities": [], "cats": []}
+{"text": "anexos 4.1 diagrama fluxo trabalho anexo apresenta diagrama fluxo trabalho ilustra dados coletados processados apresentados smpu", "entities": [], "cats": []}
+{"text": "4.2 tabela especifica\u00e7\u00f5es t\u00e9cnicas anexo b fornece tabela especifica\u00e7\u00f5es t\u00e9cnicas smpu incluindo requisitos hardware software rede", "entities": [], "cats": []}
+{"text": "4.3 lista equipamentos m\u00e9dicos compat\u00edveis anexo c fornece lista dispositivos m\u00e9dicos compat\u00edveis smpu", "entities": [], "cats": []}
+{"text": "4.4 diretrizes instala\u00e7\u00e3o manuten\u00e7\u00e3o anexo d fornece diretrizes detalhadas instala\u00e7\u00e3o manuten\u00e7\u00e3o smpu", "entities": [], "cats": []}
+{"text": "4.5 manual usu\u00e1rio anexo fornece manual usu\u00e1rio detalhado smpu", "entities": [], "cats": []}
+{"text": "manual inclui instru\u00e7\u00f5es passo passo sobre usar sistema resolver problemas comuns", "entities": [], "cats": []}
+{"text": "4.6 documenta\u00e7\u00e3o api anexo f fornece documenta\u00e7\u00e3o detalhada api smpu", "entities": [], "cats": []}
+{"text": "documenta\u00e7\u00e3o inclui descri\u00e7\u00f5es todas chamadas api par\u00e2metros tipos dados retorno c\u00f3digos erro", "entities": [], "cats": []}
+{"text": "4.7 plano testes anexo g apresenta plano testes smpu", "entities": [], "cats": []}
+{"text": "plano inclui lista testes serem realizados crit\u00e9rios aceita\u00e7\u00e3o cada teste cronograma execu\u00e7\u00e3o testes", "entities": [], "cats": []}
