@@ -1,0 +1,5 @@
+pandas
+scikit-learn
+sklearn_crfsuite
+openpyxl
+nltk
